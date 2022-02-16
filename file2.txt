@@ -1,1 +1,3 @@
 Text for second commit.
+
+Edited at the branch new feature.
