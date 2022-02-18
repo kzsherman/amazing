@@ -7,3 +7,5 @@ new short story at branch new feature - 1.
 Edited file3 on github.
 
 Editing file3 on Lenovo.
+
+Editing on Github again.
